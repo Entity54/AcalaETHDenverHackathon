@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="XUepOFPN8j3F3fw-nsQo" name="Page-1">
+        <mxGraphModel dx="1514" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Phase 1&lt;br&gt;Register accounts&lt;br&gt;&amp;amp; tokens" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="20" width="150" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Transfer all assets&lt;br&gt;to SC" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="20" width="140" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Trigger Point 1&lt;br&gt;Trigger Point 2&lt;br&gt;Trigger Point 3" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="20" width="140" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Phase 2&lt;br&gt;setWill&lt;br&gt;setBenficiaries" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="20" width="140" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Swap Liquid assets&lt;br&gt;to stable coin" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="20" width="140" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Distribute Assets&lt;br&gt;to heirs" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="20" width="140" height="90" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
