@@ -94,3 +94,14 @@ NONE OF THE BUTTONS NEED TO BE CLICKED AND WILL BE REMOVED IN FUTURE VERSION AS 
 <br>
 <br>
 ## ALL GOOD! NOW THAT YOU SECURED YOUR LOVED ONES GO ENJOY LIFE
+<br>
+<br>
+<br>
+
+## Video Link
+<br>
+<p> https://www.dropbox.com/home/2%20-%20Angelos/Hackathons/ETH%20Denver%20-%20Acala </p>
+<br>
+<br>
+<br>
+
