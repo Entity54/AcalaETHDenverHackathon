@@ -1,5 +1,14 @@
 # NTT54 DEAD MAN SWITCH
 
+## Website
+<br>
+<p> https://dms-dusky.vercel.app </p>
+<br>
+
+## Video Link
+<br>
+<p> https://www.dropbox.com/home/2%20-%20Angelos/Hackathons/ETH%20Denver%20-%20Acala </p>
+<br>
 
 ## STEP 1 Intro
 Instructions
@@ -97,11 +106,3 @@ NONE OF THE BUTTONS NEED TO BE CLICKED AND WILL BE REMOVED IN FUTURE VERSION AS 
 <br>
 <br>
 <br>
-
-## Video Link
-<br>
-<p> https://www.dropbox.com/home/2%20-%20Angelos/Hackathons/ETH%20Denver%20-%20Acala </p>
-<br>
-<br>
-<br>
-
